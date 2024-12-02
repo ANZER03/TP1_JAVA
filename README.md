@@ -48,16 +48,15 @@ Un projet Java simple pour la gestion de stock, conçu comme un **travail pratiq
 ## Exemple de menu principal
 
 ---- Gestion de Stock ----
-1. Ajouter un produit
-2.Modifier un produit
-3. Supprimer un produit
-4.Afficher la liste des produits
-5.Rechercher un produit
-6.Calculer la valeur totale du stock
-7.Quitter 
-
+1. Ajouter un produit 
+2. Modifier un produit 
+3. Supprimer un produit 
+4. Afficher la liste des produits 
+5. Rechercher un produit 
+6. Calculer la valeur totale du stock 
+7. Quitter  
 Choisissez une option :
----
+
 
 ## Auteur
 
